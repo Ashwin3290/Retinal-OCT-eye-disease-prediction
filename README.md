@@ -14,7 +14,7 @@ The model is a CNN model with 4 convolutional layers and 2 dense layers. The mod
 
 Run the model on your Google colab[here](https://colab.research.google.com)
 
-##Steps to run
+## Steps to run
 Generate your kaggle auth key from [Kaggle](https://www.kaggle.com/) and upload that to the colab environment.
 
 ## Results
